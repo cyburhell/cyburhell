@@ -1,7 +1,7 @@
-# 💻 Shazaib | CyberHell
+# 💻 | CyberHell
 
 ### 👾 About Me
-Hey there! I'm Shazaib, a passionate programmer with a medium-level grasp of Python. I love building tools, automating stuff, and diving into cybersecurity. My main interests include ethical hacking, AI, automation, and Discord bot development.
+Hey there! I'm Cyberhell, a passionate programmer with a medium-level grasp of Python. I love building tools, automating stuff, and diving into cybersecurity. My main interests include ethical hacking, AI, automation, and Discord bot development.
 
 ### 🔥 My Projects
 - **SKid Central Multi Tool** - A feature-rich Discord multitool. *(Available Now)*
@@ -14,11 +14,7 @@ Hey there! I'm Shazaib, a passionate programmer with a medium-level grasp of Pyt
 - **Libraries & Frameworks:** Pystyle, Requests, Discord.py
 - **Other Interests:** AI, Automation, Ethical Hacking, Cybersecurity, Game Development
 
-### 📊 GitHub Stats
-![Shazaib's GitHub Stats](https://github-readme-stats.vercel.app/api?username=cyburhell&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cyburhell&layout=compact&theme=radical)
 
-### 🎭 Fun GIFs
 ![Coding GIF](https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif)
 
 
@@ -27,4 +23,7 @@ Hey there! I'm Shazaib, a passionate programmer with a medium-level grasp of Pyt
 - Discord: cyberhdll
 
 💀 _"Breaking things to understand them better."_
+
+![Cyberhell's GitHub Stats](https://github-readme-stats.vercel.app/api?username=cyburhell&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cyburhell&layout=compact&theme=radical)
 
