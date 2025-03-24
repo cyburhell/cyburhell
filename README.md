@@ -11,7 +11,7 @@ Hey there! I'm Cyberhell, a passionate programmer with a medium-level grasp of P
 
 ### 🚀 Tech Stack
 - **Languages:** Python
-- **Libraries & Frameworks:** Pystyle, Requests, Discord.py
+- **Libraries & Frameworks:** Pystyle, Requests, Discord.py,Colorama,OS etcc
 - **Other Interests:** AI, Automation, Ethical Hacking, Cybersecurity, Game Development
 
 
